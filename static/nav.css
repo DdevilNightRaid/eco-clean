@@ -9,9 +9,9 @@
   #navbar {
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
-    padding: 10px calc(23rem - 26px);
+    gap: 54rem;
   }
   #navbar #logo {
     margin: 5px;
@@ -62,3 +62,4 @@
     width: 25px;
   }
   /* EO. Navbar  */
+
